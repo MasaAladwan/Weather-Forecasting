@@ -1,0 +1,11 @@
+<resources>
+    <string-array name="cities_array">
+        <item>Ma\'An</item>
+        <item>Amman Airport</item>
+        <item>Mafraq</item>
+        <item>H-5\'Safawi</item>
+        <item>H-4\'Irwaished</item>
+        <item>Aqaba Airport</item>
+        <item>Queen Alia Airport</item>
+    </string-array>
+</resources>
